@@ -1,0 +1,2 @@
+# chatgpt
+student [AI] 
